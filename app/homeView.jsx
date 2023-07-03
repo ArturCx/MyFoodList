@@ -187,6 +187,17 @@ export function Home() {
       image="https://i.imgur.com/gkMbrsC.png"
     />
 
+<CardPinto 
+      name="Prainha Butiquim"
+      showbadge="none"
+      text="Bar praiano com vista Incrível"
+      text2="Rua Moisés Kalil, 209 - Buritis, Belo Horizonte - MG"
+      site="https://www.instagram.com/prainhabutiquim/"
+      image="https://lh3.googleusercontent.com/p/AF1QipOdZOo60Pu6pfnuZbKEI5NAmx_Hn79fGpentmOV=s680-w680-h510"
+    />
+
+
+
     </Flex>
   );
 }

@@ -184,7 +184,7 @@ export function Home() {
       text="Cervejaria Artesanal na Vila Européia"
       text2="Av. Fleming, 900 - Ouro Preto, Belo Horizonte - MG"
       site="https://www.instagram.com/cervejariacharada/"
-      image="http://portalbelohorizonte.com.br/sites/default/files/arquivos/comer-e-beber/2023-01/aninha-gatto-1.jpg"
+      image="https://i.imgur.com/gkMbrsC.png"
     />
 
     </Flex>

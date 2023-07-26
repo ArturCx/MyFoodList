@@ -44,7 +44,7 @@ export function Home() {
     />
     
     <CardPinto 
-      name="Birosca s2"
+      name="Birosca"
       badge="TOP 57 do BRASIL"
       text="Alta gastronomia - Cozinha Brasileira"
       text2="Rua Silvianópolis, 483 - Santa Tereza, Belo Horizonte - MG"
@@ -197,13 +197,22 @@ export function Home() {
     />
 
 <CardPinto 
-      name="The House "
+      name="The House"
       showbadge="none"
       text="Bar com salas temáticas de Filmes e Séries"
       text2="Av. do Contorno, 5727 - Savassi, Belo Horizonte - MG"
       site="https://www.instagram.com/thehouseoficial/"
-      image="https://scontent.fbhz2-1.fna.fbcdn.net/v/t39.30808-6/327310893_3253890088194831_8885652273794651655_n.jpg?_nc_cat=107&cb=99be929b-3346023f&ccb=1-7&_nc_sid=e3f864&_nc_ohc=c7ivwc-cOu8AX9o1en1&_nc_oc=AQn5qDn2KtKeeGd9tSbReKE2ldHYVVWjc1HLZaU3R8eWujIPQoJhdATjH8B3aDFQUlgu5sYAT-bPkpxW9kN2vsr9&_nc_ht=scontent.fbhz2-1.fna&oh=00_AfD8Xh8FsEgesYVa1JU-cfEeZtY5eBMz-xh6p2KAza5h0Q&oe=64A88B48"
+      image="https://i.imgur.com/hAGkSZ0.jpg"
     />
+
+    <CardPinto 
+      name="Takos"
+      showbadge="none"
+      text="Rodízio de comida Mexicana"
+      text2="Av. Cristóvão Colombo, 448 - Savassi, Belo Horizonte - MG"
+      site="https://www.instagram.com/takosbh/"
+      image="https://bhdetalhes.com/wp-content/uploads/2018/04/takos-mexican-gastrobar-decoracao-3.jpg"
+    />    
 
     </Flex>
   );

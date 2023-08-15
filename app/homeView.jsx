@@ -49,7 +49,7 @@ export function Home() {
       text="Alta gastronomia - Cozinha Brasileira"
       text2="Rua Silvianópolis, 483 - Santa Tereza, Belo Horizonte - MG"
       site="https://www.instagram.com/biroscas2/"
-      image="https://scontent.fbhz2-1.fna.fbcdn.net/v/t1.6435-9/125133301_4647980661943786_7062777748138182252_n.jpg?_nc_cat=105&cb=99be929b-3346023f&ccb=1-7&_nc_sid=a26aad&_nc_ohc=a00AHMCx6i0AX8nWl73&_nc_ht=scontent.fbhz2-1.fna&oh=00_AfA1rR5X7ouu9AytIL1qDE9WmxHAemzHfM2XFRksYVnWdQ&oe=64CA643B"
+      image="https://i.imgur.com/E6e40mD.png"
     />
     
     <CardPinto 

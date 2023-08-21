@@ -172,7 +172,7 @@ export function Home() {
     <CardPinto 
       name="The Bridge Pub"
       showbadge="none"
-      text="PUB Britânico com grupos de Rock"
+      text="PUB Britânico com bandas de Rock"
       text2="Rua dos Timbiras, 834 - Funcionários, Belo Horizonte - MG"
       site="https://www.instagram.com/thebridge_pub/"
       image="https://i.imgur.com/XK9pw4k.png"
@@ -259,14 +259,23 @@ export function Home() {
       image="https://i.imgur.com/KSdrrfq.png"
     />  
 
-    <CardPinto 
+<CardPinto 
       name="Vino!"
       showbadge="none"
-      text="Winebar com Open Wine e Champagne"
+      text="Wine bar com Open Wine e Champagne"
       text2="R. Sergipe, 1341 - Savassi, Belo Horizonte - MG"
       site="https://www.instagram.com/vinobhsavassi/"
       image="https://i.imgur.com/ASiaPwr.png"
-    />  
+    />      
+  
+  <CardPinto 
+    name="QuintoPaladar"
+    showbadge="none"
+    text="Gastrobar com um ambiente de natureza"
+    text2="Av. Gov. Valadares, 575 - Centro, Betim - MG"
+    site="https://www.instagram.com/quintopaladargardenbar/"
+    image="https://i.imgur.com/WJoZ91e.png"
+  />  
 
     </Flex>
   );

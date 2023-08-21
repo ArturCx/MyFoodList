@@ -215,7 +215,7 @@ export function Home() {
     />    
 
     <CardPinto 
-      name="Bharzim"
+      name="Bharzin"
       showbadge="none"
       text="Parrila e Gastrobar"
       text2="Praça José Lino da Silva, 20 - Brasiléia, Betim - MG"
@@ -249,6 +249,24 @@ export function Home() {
       site="https://www.instagram.com/srmaltebar/"
       image="https://i.imgur.com/rNXhU5i.png"
     />   
+
+    <CardPinto 
+      name="The Butcher"
+      showbadge="none"
+      text="Gastropub especializado em carnes nobres"
+      text2="Av. Ressaca, 353 - Minas Brasil, Belo Horizonte - MG"
+      site="https://www.instagram.com/thebutcherbar/"
+      image="https://i.imgur.com/KSdrrfq.png"
+    />  
+
+    <CardPinto 
+      name="Vino!"
+      showbadge="none"
+      text="Winebar com Open Wine e Champagne"
+      text2="R. Sergipe, 1341 - Savassi, Belo Horizonte - MG"
+      site="https://www.instagram.com/vinobhsavassi/"
+      image="https://i.imgur.com/ASiaPwr.png"
+    />  
 
     </Flex>
   );

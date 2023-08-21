@@ -214,6 +214,42 @@ export function Home() {
       image="https://bhdetalhes.com/wp-content/uploads/2018/04/takos-mexican-gastrobar-decoracao-3.jpg"
     />    
 
+    <CardPinto 
+      name="Bharzim"
+      showbadge="none"
+      text="Parrila e Gastrobar"
+      text2="Praça José Lino da Silva, 20 - Brasiléia, Betim - MG"
+      site="https://www.instagram.com/bharzinoficial/"
+      image="https://i.imgur.com/S4lWB0Z.png"
+    />
+
+    <CardPinto 
+      name="Mercearia 77"
+      showbadge="none"
+      text="Wine Bar e Gastropub"
+      text2="Av. Artur da Silva Bernardes, 277 - Ingá, Betim - MG"
+      site="https://www.instagram.com/mercearia.77/"
+      image="https://i.imgur.com/ofdgaED.png"
+    />   
+
+    <CardPinto 
+      name="Santo Malte"
+      showbadge="none"
+      text="Loja de Cervejas Especiais, Growler Station e Restaurante"
+      text2="Av. Artur da Silva Bernardes, 446 - lj14 - Horto, Betim - MG"
+      site="https://santomaltebetim.com.br/"
+      image="https://i.imgur.com/7gZui6U.png"
+    />   
+    
+    <CardPinto 
+      name="Sr. Malte"
+      showbadge="none"
+      text="Cervejaria Artesanal na praça"
+      text2="Praça Milton Campos, 28 - Centro, Betim - MG"
+      site="https://www.instagram.com/srmaltebar/"
+      image="https://i.imgur.com/rNXhU5i.png"
+    />   
+
     </Flex>
   );
 }

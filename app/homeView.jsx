@@ -277,6 +277,24 @@ export function Home() {
     image="https://i.imgur.com/WJoZ91e.png"
   />  
 
+<CardPinto 
+    name="Astoria"
+    showbadge="none"
+    text="Brunch autêntico americano"
+    text2="R. Leopoldina, 85 - Santo Antônio - BH"
+    site="https://www.instagram.com/astoriabhbar/"
+    image="https://www.casalcozinha.com.br/lugares/wp-content/uploads/sites/3/2019/11/astoria-bar.webp"
+  />  
+
+<CardPinto 
+    name="Copa Cozinha"
+    showbadge="none"
+    text="Café da manhã mineiro em um Jardim"
+    text2="Av. Francisco Sales, 199 - Floresta - BH"
+    site="https://www.instagram.com/copa_cozinha/"
+    image="https://10619-2.s.cdn12.com/rests/original/106_511178225.jpg"
+  />  
+
     </Flex>
   );
 }
